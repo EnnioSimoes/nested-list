@@ -1,4 +1,8 @@
-# nested-list
+# Nested List
+
+The problem is to create a script that makes a recursive structure to manage the menu using HTML5 Drag and Drop API, you should only use Vue3 and Tailwind.
+
+![Bug](/public/ezgif-2-fdde6bd130.gif)
 
 ## Project setup
 ```
